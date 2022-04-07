@@ -1,4 +1,4 @@
-require "ownable"
+require_relative "ownable"
 
 class Wallet
   include Ownable
